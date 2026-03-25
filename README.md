@@ -2,6 +2,8 @@
 
 A full-stack seat-based event ticketing platform built with **Spring Boot** and **React**. Designed to handle real transactional complexity — concurrent seat bookings, ACID transactions, and pessimistic locking to prevent double-booking.
 
+NOTE: This is the public release of a project developed privately. The commit history reflects the published state, not the full development history
+
 ---
 
 ## Architecture Overview
